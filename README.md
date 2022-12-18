@@ -15,5 +15,5 @@ Práctica del Bootcamp de KeepCoding 2022-2023.
 
 ## License
 
-[License](https://github.com/daibeal/keepcoding-data-mining-r/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/daibeal/keepcoding-data-mining-r/blob/main/LICENSE)
 
