@@ -1,0 +1,6 @@
+dplyr 1.0.10
+ggplot 	3.4.0
+tidyverse 1.3.2
+dendextend 1.16.0
+cluster 2.1.4
+glment 4.1
