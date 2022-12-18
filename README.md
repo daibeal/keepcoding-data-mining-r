@@ -15,5 +15,5 @@ Práctica del Bootcamp de KeepCoding 2022-2023.
 
 ## License
 
-[GNU](https://choosealicense.com/licenses/agpl-3.0/)
+[License](https://github.com/daibeal/keepcoding-data-mining-r/blob/main/LICENSE)
 
